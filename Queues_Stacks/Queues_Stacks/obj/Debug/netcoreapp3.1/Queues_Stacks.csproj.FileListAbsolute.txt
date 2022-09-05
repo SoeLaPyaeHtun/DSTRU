@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/bin/Debug/netcoreapp3.1/Queues_Stacks
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/bin/Debug/netcoreapp3.1/Queues_Stacks.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/bin/Debug/netcoreapp3.1/Queues_Stacks.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/bin/Debug/netcoreapp3.1/Queues_Stacks.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/bin/Debug/netcoreapp3.1/Queues_Stacks.dll
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/bin/Debug/netcoreapp3.1/Queues_Stacks.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.dll
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Queues_Stacks/Queues_Stacks/obj/Debug/netcoreapp3.1/Queues_Stacks.genruntimeconfig.cache

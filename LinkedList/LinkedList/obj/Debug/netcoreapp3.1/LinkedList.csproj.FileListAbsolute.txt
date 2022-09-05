@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.dll
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.pdb
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.dll
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.pdb
+/Users/soelapyaehtun/NUS-DSTRU/LinkedList/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.genruntimeconfig.cache
