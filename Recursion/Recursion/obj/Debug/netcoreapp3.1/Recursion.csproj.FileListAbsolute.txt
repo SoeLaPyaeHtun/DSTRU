@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/bin/Debug/netcoreapp3.1/Recursion
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/bin/Debug/netcoreapp3.1/Recursion.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/bin/Debug/netcoreapp3.1/Recursion.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/bin/Debug/netcoreapp3.1/Recursion.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/bin/Debug/netcoreapp3.1/Recursion.dll
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/bin/Debug/netcoreapp3.1/Recursion.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.dll
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Recursion/Recursion/obj/Debug/netcoreapp3.1/Recursion.genruntimeconfig.cache

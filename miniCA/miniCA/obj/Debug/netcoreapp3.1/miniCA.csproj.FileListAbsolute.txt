@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/bin/Debug/netcoreapp3.1/miniCA
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/bin/Debug/netcoreapp3.1/miniCA.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/bin/Debug/netcoreapp3.1/miniCA.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/bin/Debug/netcoreapp3.1/miniCA.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/bin/Debug/netcoreapp3.1/miniCA.dll
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/bin/Debug/netcoreapp3.1/miniCA.pdb
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.dll
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.pdb
+/Users/soelapyaehtun/NUS-DSTRU/miniCA/miniCA/obj/Debug/netcoreapp3.1/miniCA.genruntimeconfig.cache

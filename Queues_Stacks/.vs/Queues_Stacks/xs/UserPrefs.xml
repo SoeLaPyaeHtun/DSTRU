@@ -1,8 +1,14 @@
 ﻿<Properties StartupConfiguration="{83EA7B7C-A447-4CBB-9481-BA1D12B72A90}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Queues__Stacks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Queues_Stacks/Program.cs">
     <Files>
-      <File FileName="Queues_Stacks/Program.cs" Line="24" Column="16" />
+      <File FileName="Queues_Stacks/Program.cs" Line="43" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,10 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>

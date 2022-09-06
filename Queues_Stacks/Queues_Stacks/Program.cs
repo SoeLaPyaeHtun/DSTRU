@@ -12,7 +12,7 @@ namespace Queues_Stacks
         {
 
             //Console.Write("Enter : ");
-            string input = "a {b [c (d + e)/2 - f  ] + 1}";
+            string input = "";
            
            
            
