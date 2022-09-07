@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/bin/Debug/netcoreapp3.1/Tree
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/bin/Debug/netcoreapp3.1/Tree.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/bin/Debug/netcoreapp3.1/Tree.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/bin/Debug/netcoreapp3.1/Tree.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/bin/Debug/netcoreapp3.1/Tree.dll
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/bin/Debug/netcoreapp3.1/Tree.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.dll
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Tree/Tree/obj/Debug/netcoreapp3.1/Tree.genruntimeconfig.cache
