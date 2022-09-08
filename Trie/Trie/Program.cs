@@ -16,8 +16,9 @@ namespace Trie
                 trie.Insert(word);
             }
 
+            trie.Delete("an");
 
-            if (trie._Search("booy") == true)
+            if (trie._Search("a") == true)
                 Console.WriteLine("exit");
             else Console.WriteLine("dont exit");
 

@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{A1BED46F-6830-43BA-8CDC-4BA169E08DB4}|Default">
-  <MonoDevelop.Ide.ItemProperties.Trie PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trie/Trie.cs">
+    <Files>
+      <File FileName="Trie/Trie.cs" Line="6" Column="9" />
+      <File FileName="Trie/Program.cs" Line="19" Column="31" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Trie" expanded="True">
-            <Node name="Trie" expanded="True">
-              <Node name="Trie.cs" selected="True" />
-            </Node>
+            <Node name="Trie" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,4 +18,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Trie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

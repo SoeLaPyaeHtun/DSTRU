@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/bin/Debug/netcoreapp3.1/Heap
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/bin/Debug/netcoreapp3.1/Heap.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/bin/Debug/netcoreapp3.1/Heap.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/bin/Debug/netcoreapp3.1/Heap.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/bin/Debug/netcoreapp3.1/Heap.dll
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/bin/Debug/netcoreapp3.1/Heap.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.dll
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Heap/Heap/obj/Debug/netcoreapp3.1/Heap.genruntimeconfig.cache
