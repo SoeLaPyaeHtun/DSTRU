@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{104E2688-9A1D-47C5-B123-3E3EA4BEA415}|Default">
+  <MonoDevelop.Ide.ItemProperties.CA__MINI__RP1V PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CA_MINI_R_1/Program.cs">
+    <Files>
+      <File FileName="CA_MINI_R_1/Program.cs" Line="32" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CA_MINI_R_1" expanded="True" selected="True">
+            <Node name="CA_MINI_RP1V" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

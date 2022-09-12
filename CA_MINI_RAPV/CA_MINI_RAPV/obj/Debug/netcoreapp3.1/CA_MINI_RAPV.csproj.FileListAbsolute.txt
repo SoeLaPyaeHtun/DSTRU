@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/bin/Debug/netcoreapp3.1/CA_MINI_RAPV
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/bin/Debug/netcoreapp3.1/CA_MINI_RAPV.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/bin/Debug/netcoreapp3.1/CA_MINI_RAPV.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/bin/Debug/netcoreapp3.1/CA_MINI_RAPV.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/bin/Debug/netcoreapp3.1/CA_MINI_RAPV.dll
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/bin/Debug/netcoreapp3.1/CA_MINI_RAPV.pdb
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.dll
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.pdb
+/Users/soelapyaehtun/NUS-DSTRU/CA_MINI_RAPV/CA_MINI_RAPV/obj/Debug/netcoreapp3.1/CA_MINI_RAPV.genruntimeconfig.cache

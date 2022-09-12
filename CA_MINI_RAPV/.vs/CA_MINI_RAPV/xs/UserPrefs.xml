@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{33FF8860-1D58-444C-B081-A61A9A236A03}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CA_MINI_RAPV/Program.cs">
+    <Files>
+      <File FileName="CA_MINI_RAPV/Program.cs" Line="42" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CA_MINI_RAPV" expanded="True">
+            <Node name="CA_MINI_RAPV" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CA__MINI__RAPV PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

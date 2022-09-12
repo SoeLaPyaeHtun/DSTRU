@@ -28,7 +28,7 @@ namespace LinkedList
 
 
         //linkedlist add method
-        public void Add(string newElement)
+        public LList Add(string newElement)
         {
             Node newNode = new Node(newElement);
             if(numElements == 0)
@@ -41,6 +41,7 @@ namespace LinkedList
                 lastNode.Next = newNode;
             }
             numElements++;
+            return null;
         }
 
         //linkedlist insert method

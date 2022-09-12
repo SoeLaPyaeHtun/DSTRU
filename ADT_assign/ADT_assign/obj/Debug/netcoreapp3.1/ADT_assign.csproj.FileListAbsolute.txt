@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/bin/Debug/netcoreapp3.1/ADT_assign
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/bin/Debug/netcoreapp3.1/ADT_assign.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/bin/Debug/netcoreapp3.1/ADT_assign.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/bin/Debug/netcoreapp3.1/ADT_assign.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/bin/Debug/netcoreapp3.1/ADT_assign.dll
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/bin/Debug/netcoreapp3.1/ADT_assign.pdb
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.dll
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.pdb
+/Users/soelapyaehtun/NUS-DSTRU/ADT_assign/ADT_assign/obj/Debug/netcoreapp3.1/ADT_assign.genruntimeconfig.cache

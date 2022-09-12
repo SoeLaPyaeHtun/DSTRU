@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LinkedList
 {
@@ -6,7 +7,9 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
+           
             LList myList = new LList();
+
             myList.Add("FOPCS");
             myList.Add("OOPCS");
             myList.InsertAt(2, "MVC.NET");

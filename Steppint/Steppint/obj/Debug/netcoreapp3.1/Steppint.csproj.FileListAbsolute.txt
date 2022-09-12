@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/bin/Debug/netcoreapp3.1/Steppint
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/bin/Debug/netcoreapp3.1/Steppint.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/bin/Debug/netcoreapp3.1/Steppint.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/bin/Debug/netcoreapp3.1/Steppint.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/bin/Debug/netcoreapp3.1/Steppint.dll
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/bin/Debug/netcoreapp3.1/Steppint.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.dll
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.pdb
+/Users/soelapyaehtun/NUS-DSTRU/Steppint/Steppint/obj/Debug/netcoreapp3.1/Steppint.genruntimeconfig.cache

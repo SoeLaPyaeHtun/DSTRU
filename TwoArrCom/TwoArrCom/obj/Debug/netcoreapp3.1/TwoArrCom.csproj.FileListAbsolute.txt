@@ -1,0 +1,14 @@
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/bin/Debug/netcoreapp3.1/TwoArrCom
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/bin/Debug/netcoreapp3.1/TwoArrCom.deps.json
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/bin/Debug/netcoreapp3.1/TwoArrCom.runtimeconfig.json
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/bin/Debug/netcoreapp3.1/TwoArrCom.runtimeconfig.dev.json
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/bin/Debug/netcoreapp3.1/TwoArrCom.dll
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/bin/Debug/netcoreapp3.1/TwoArrCom.pdb
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.AssemblyInfo.cs
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.dll
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.pdb
+/Users/soelapyaehtun/NUS-DSTRU/TwoArrCom/TwoArrCom/obj/Debug/netcoreapp3.1/TwoArrCom.genruntimeconfig.cache
